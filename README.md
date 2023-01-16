@@ -2,7 +2,7 @@
 
 Este foi meu primeiro projeto utilizando Redux, e foi um desafio proposto para o PS do IPAM
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/luishenrinquebraga |
 | -------------  | --- |
 | :sparkles: Nome        | **Buscador de Microrregiões**
 | :label: Tecnologias | TypeScript, ReactJs, Redux
