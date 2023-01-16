@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# IPAM-Front
 
 Este foi meu primeiro projeto utilizando Redux, e foi um desafio proposto para o PS do IPAM
 
