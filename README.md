@@ -9,8 +9,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![image](https://user-images.githubusercontent.com/54643410/212716445-e27ef787-7ac7-415e-bfd1-96963c6b21ab.png#vitrinedev)
 
 ## Detalhes do projeto
 
